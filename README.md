@@ -1,12 +1,20 @@
-# Slow Day Rescue Website
+# SlowDay Store Rescue Website
 
-Static Cloudflare Pages website for Slow Day Rescue.
+Static Cloudflare Pages website for SlowDay Store Rescue, the Shopify app focused on sales slowdowns, best-seller/inventory risk, and conversion-funnel insights.
 
-## Upload to GitHub
-Upload every file in this folder to the root of the `slowdayrescue-website` repository and commit to `main`. Cloudflare Pages should deploy automatically.
+## Deploy
+Upload/commit every file in this folder to the root of the `slowdayrescue-website` repository on the `main` branch. Cloudflare Pages should deploy automatically.
 
-## Before Clover submission
-- Configure `support@slowdayrescue.com`.
-- Review the starter Privacy Policy and Terms.
-- Replace the temporary Clover installation alert with the final App Market URL after approval.
-- Confirm the $19.99 billing language.
+## Shopify App Store resource URLs
+- Website: https://slowdayrescue.com/
+- Support: https://slowdayrescue.com/support
+- Privacy: https://slowdayrescue.com/privacy
+- Terms: https://slowdayrescue.com/terms
+- Pricing: https://slowdayrescue.com/pricing
+- FAQ: https://slowdayrescue.com/faq
+
+## Before App Store submission
+- Confirm `support@slowdayrescue.com` is monitored.
+- Replace the temporary launch alert in `script.js` with the public Shopify App Store listing/install URL after approval.
+- Review Privacy Policy and Terms against the final production data flow and business/legal requirements.
+- Keep the website and App Store pricing consistent with the configured $14.99/month, 14-day trial plan.

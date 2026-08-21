@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://slowdayrescue.com/</loc></url><url><loc>https://slowdayrescue.com/support.html</loc></url><url><loc>https://slowdayrescue.com/privacy.html</loc></url><url><loc>https://slowdayrescue.com/terms.html</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://slowdayrescue.com/</loc></url>
+  <url><loc>https://slowdayrescue.com/pricing</loc></url>
+  <url><loc>https://slowdayrescue.com/faq</loc></url>
+  <url><loc>https://slowdayrescue.com/support</loc></url>
+  <url><loc>https://slowdayrescue.com/privacy</loc></url>
+  <url><loc>https://slowdayrescue.com/terms</loc></url>
+</urlset>
